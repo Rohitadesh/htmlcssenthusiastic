@@ -1,0 +1,24 @@
+
+;*{
+    padding:0;
+    margin:0;
+}
+.box{
+    height: 200px;
+    width:200px;
+    border:1px solid red;
+    box-shadow: 10px 10px black;
+    /* color: white; */
+    border-radius: 8%;
+}
+.bg-green{
+    background-color: rgb(127, 185, 127);
+}
+.text-white{
+    color:rebeccapurple;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.text-thin{
+    font-weight: 900;
+}
