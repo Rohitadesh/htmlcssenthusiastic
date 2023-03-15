@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    height:2rem;
+    width:50vw;
+    font-size: 1em;
+    /* border:1px solid royalblue; */
+}
+.box1{
+    height:50%;
+    width:100%;
+    /* border:1px solid black */
+    background-color: red;
+    /* font-size: 1 two.2em; */
+    transition: all 1s ease-in;
+    transform: scale(1,1);
+}
+.bg-green{
+    background-color: green;
+}
+
+html{
+    font-size: 5vw;
+}
+
+.box1:hover{
+    background-color: rgb(192, 240, 255);
+    color:white;
+    transition: all 1s ease-out ;
+
+}
+
+/* vm,rem is used font-size
+
+em used in margin,padding */
