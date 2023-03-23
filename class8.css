@@ -55,7 +55,7 @@
 }
 /* navbar-mobile child selector means a is in  navbar*/
 label::before{
-    content: "-";
+    content: "--";
     font-size: 30px;
     font-weight: bold;
     cursor: pointer;
